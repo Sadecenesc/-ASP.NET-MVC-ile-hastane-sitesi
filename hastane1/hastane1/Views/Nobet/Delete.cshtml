@@ -1,0 +1,39 @@
+﻿
+@model	Nobet
+
+<form method="post" asp-action="DeletePOST">
+	<input asp-for="Id" hidden/>
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Nobet Silme </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Tarih"></label>
+			<input asp-for="Tarih" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Saat"></label>
+			<input asp-for="Saat" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="AsistanId"></label>
+			<input asp-for="AsistanId" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="BolumId"></label>
+			<input asp-for="BolumId" disabled class="form-control" />
+			
+		</div>
+		
+			
+		<button type="submit" class="btn btn-danger" style="width:180px">Sil</button>
+		<a asp-controller="Nobet" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

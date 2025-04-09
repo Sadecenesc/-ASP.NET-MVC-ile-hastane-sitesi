@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hastane1.props" />
+</Project>

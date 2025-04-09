@@ -1,0 +1,24 @@
+﻿@model Randevu
+<div class="container mt-4">
+    <h2>Randevu Detayı</h2>
+    <div class="card">
+        
+        <div class="card-body">
+
+            <p><strong>Başlangız Zamanı:</strong> @Model.Başlamazamani.ToString("yyyy-MM-dd HH:mm")</p>
+            <p><strong>Bitiş Zamanı:</strong> @Model.Bitişzamani.ToString("yyyy-MM-dd HH:mm")</p>
+            <p><strong>Ogretım Uyesı:</strong> @(Model.OgretimUyesi != null ? Model.OgretimUyesi.Ad : "No Professor Assigned")</p>
+            <p><strong>Asistan:</strong> @(Model.Asistan != null ? Model.Asistan.Ad : "No Assistant Assigned")</p>
+        </div>
+
+        <div class="card-footer">
+            <a asp-controller="Randevu" asp-action="Index" class="btn btn-primary">Listeye Geri Dön</a>
+            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+            <form asp-controller="Randevu" asp-action="Delete" asp-route-id="@Model.Id" method="post" class="d-inline">
+                <button type="submit" class="btn btn-danger">Randevuyu Sil</button>
+            </form>
+            }
+        </div>
+    </div>
+</div>

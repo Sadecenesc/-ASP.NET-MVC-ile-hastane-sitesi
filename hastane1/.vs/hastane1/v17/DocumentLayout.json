@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hatta\\Desktop\\hastane1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\views\\hakkinda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\views\\hakkinda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\models\\asistan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\models\\asistan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\hakkindacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\hakkindacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\bolumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\bolumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\asistancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\asistancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|c:\\users\\hatta\\desktop\\hastane1\\hastane1\\controllers\\acildurumhaberlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5B590-757B-4741-A801-38CBDD08E77C}|hastane1\\hastane1.csproj|solutionrelative:hastane1\\controllers\\acildurumhaberlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgretimUyesi.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\OgretimUyesi.cs",
+              "RelativeDocumentMoniker": "hastane1\\Models\\OgretimUyesi.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\OgretimUyesi.cs",
+              "RelativeToolTip": "hastane1\\Models\\OgretimUyesi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:54:10.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Bolum.cs",
+              "RelativeDocumentMoniker": "hastane1\\Models\\Bolum.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Bolum.cs",
+              "RelativeToolTip": "hastane1\\Models\\Bolum.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:53:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asistan.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Asistan.cs",
+              "RelativeDocumentMoniker": "hastane1\\Models\\Asistan.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Asistan.cs",
+              "RelativeToolTip": "hastane1\\Models\\Asistan.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:53:43.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:53:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "hastane1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "hastane1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T18:42:44.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "hastane1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "hastane1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T13:17:24.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "hastane1\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Models\\Users.cs",
+              "RelativeToolTip": "hastane1\\Models\\Users.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:54:17.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Hakkinda\\Index.cshtml",
+              "RelativeDocumentMoniker": "hastane1\\Views\\Hakkinda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Views\\Hakkinda\\Index.cshtml",
+              "RelativeToolTip": "hastane1\\Views\\Hakkinda\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T19:55:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\RandevuController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\RandevuController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwFcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:52:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgretimUyesiController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\OgretimUyesiController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\OgretimUyesiController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\OgretimUyesiController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\OgretimUyesiController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwFcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:52:42.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HakkindaController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\HakkindaController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\HakkindaController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\HakkindaController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\HakkindaController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:52:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BolumController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\BolumController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\BolumController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\BolumController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\BolumController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwFQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:52:03.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsistanController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\AsistanController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\AsistanController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\AsistanController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\AsistanController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwFUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:51:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AcilDurumHaberleriController.cs",
+              "DocumentMoniker": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\AcilDurumHaberleriController.cs",
+              "RelativeDocumentMoniker": "hastane1\\Controllers\\AcilDurumHaberleriController.cs",
+              "ToolTip": "C:\\Users\\hatta\\Desktop\\hastane1\\hastane1\\Controllers\\AcilDurumHaberleriController.cs",
+              "RelativeToolTip": "hastane1\\Controllers\\AcilDurumHaberleriController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAIwLwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:51:07.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

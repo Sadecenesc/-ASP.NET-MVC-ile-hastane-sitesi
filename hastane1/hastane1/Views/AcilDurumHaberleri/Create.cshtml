@@ -1,0 +1,32 @@
+﻿@model	AcilDurumHaberi
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Acil Durum Haberi Oluştur </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Baslik"></label>
+			<input asp-for="Baslik" class="form-control" />
+			<span asp-validation-for="Baslik" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Aciklama"></label>
+			<input asp-for="Aciklama" class="form-control" />
+			<span asp-validation-for="Aciklama" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Tarih"></label>
+			<input asp-for="Tarih" class="form-control" />
+			<span asp-validation-for="Tarih" class="text-danger"></span>
+		</div>
+		
+			
+		<button type="submit" class="btn btn-primary" style="width:180px">Oluştur</button>
+		<a asp-controller="AcilDurumHaberleri" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

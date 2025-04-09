@@ -1,0 +1,37 @@
+﻿@model BolumHakkinda
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Hakkında Oluştur </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Tarihce"></label>
+			<input asp-for="Tarihce" class="form-control" />
+			<span asp-validation-for="Tarihce" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Misyon"></label>
+			<input asp-for="Misyon" class="form-control" />
+			<span asp-validation-for="Misyon" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Vizyon"></label>
+			<input asp-for="Vizyon" class="form-control" />
+			<span asp-validation-for="Vizyon" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="OzelNotlar"></label>
+			<input asp-for="OzelNotlar" class="form-control" />
+			<span asp-validation-for="OzelNotlar" class="text-danger"></span>
+		</div>
+		
+			
+		<button type="submit" class="btn btn-primary" style="width:180px">Oluştur</button>
+		<a asp-controller="Hakkinda" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

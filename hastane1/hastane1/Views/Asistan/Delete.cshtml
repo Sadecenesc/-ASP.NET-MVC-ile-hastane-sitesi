@@ -1,0 +1,63 @@
+﻿
+@model	Asistan
+
+<form method="post" asp-action="DeletePOST">
+	<input asp-for="Id" hidden/>
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Asistan Silme </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Ad"></label>
+			<input asp-for="Ad" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Soyad"></label>
+			<input asp-for="Soyad" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Telefon"></label>
+			<input asp-for="Telefon" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Adres"></label>
+			<input asp-for="Adres" disabled class="form-control" />
+			
+		</div>
+		<div class="mb-3">
+			<label asp-for="Eposta"></label>
+			<input asp-for="Eposta" disabled class="form-control" />
+			
+		</div>
+		<div class="mb-3">
+			<label asp-for="UzmanlikBolgesi"></label>
+			<input asp-for="UzmanlikBolgesi" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="UserId"></label>
+			<input asp-for="UserId" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="NobetBilgisi"></label>
+			<input asp-for="NobetBilgisi" disabled class="form-control" />
+
+		</div>
+		<div class="mb-3">
+			<label asp-for="BolumId"></label>
+			<input asp-for="BolumId" disabled class="form-control" />
+
+		</div>
+			
+		<button type="submit" class="btn btn-danger" style="width:180px">Sil</button>
+		<a asp-controller="Asistan" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

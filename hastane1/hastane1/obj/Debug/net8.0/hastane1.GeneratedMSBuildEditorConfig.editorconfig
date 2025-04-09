@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hastane1
+build_property.RootNamespace = hastane1
+build_property.ProjectDir = C:\Users\hatta\Desktop\hastane1\hastane1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\hatta\Desktop\hastane1\hastane1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/AcilDurumHaberleri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNpbER1cnVtSGFiZXJsZXJpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/AcilDurumHaberleri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNpbER1cnVtSGFiZXJsZXJpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/AcilDurumHaberleri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNpbER1cnVtSGFiZXJsZXJpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/AcilDurumHaberleri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNpbER1cnVtSGFiZXJsZXJpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Asistan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RhblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Asistan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RhblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Asistan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RhblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Asistan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RhblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Bolum/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Bolum/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Bolum/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Bolum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Giris/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Hakkinda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2luZGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Hakkinda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2luZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Nobet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9iZXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Nobet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9iZXRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Nobet/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9iZXRcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Nobet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9iZXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Nobet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9iZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/OgretimUyesi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbVV5ZXNpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/OgretimUyesi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbVV5ZXNpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/OgretimUyesi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbVV5ZXNpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/OgretimUyesi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbVV5ZXNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Randevu/RandevuAl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxSYW5kZXZ1QWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hatta/Desktop/hastane1/hastane1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g7okoywur2

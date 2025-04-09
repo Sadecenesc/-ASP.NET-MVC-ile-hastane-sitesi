@@ -1,0 +1,43 @@
+﻿@model Randevu
+
+<form method="post" asp-action="DeletePOST">
+	<input asp-for="Id" hidden/>
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Randevu Silme </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="GorusmeTarihi"></label>
+			<input asp-for="GorusmeTarihi" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Başlamazamani"></label>
+			<input asp-for="Başlamazamani" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Bitişzamani"></label>
+			<input asp-for="Bitişzamani" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="AsistanId"></label>
+			<input asp-for="AsistanId" disabled class="form-control" />
+			
+		</div>
+		<div class="mb-3">
+			<label asp-for="OgretimUyesiId"></label>
+			<input asp-for="OgretimUyesiId" disabled class="form-control" />
+
+		</div>
+		
+			
+		<button type="submit" class="btn btn-danger" style="width:180px">Sil</button>
+		<a asp-controller="Randevu" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

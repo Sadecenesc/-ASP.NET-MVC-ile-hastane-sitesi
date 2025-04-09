@@ -1,0 +1,42 @@
+﻿@model	Randevu
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Randevu Oluştur </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="GorusmeTarihi"></label>
+			<input asp-for="GorusmeTarihi" class="form-control" />
+			<span asp-validation-for="GorusmeTarihi" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Başlamazamani"></label>
+			<input asp-for="Başlamazamani" class="form-control" />
+			<span asp-validation-for="Başlamazamani" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Bitişzamani"></label>
+			<input asp-for="Bitişzamani" class="form-control" />
+			<span asp-validation-for="Bitişzamani" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="AsistanId"></label>
+			<input asp-for="AsistanId" class="form-control" />
+			<span asp-validation-for="AsistanId" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="OgretimUyesiId"></label>
+			<input asp-for="OgretimUyesiId" class="form-control" />
+			<span asp-validation-for="OgretimUyesiId" class="text-danger"></span>
+		</div>
+		
+			
+		<button type="submit" class="btn btn-primary" style="width:180px">Oluştur</button>
+		<a asp-controller="Randevu" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

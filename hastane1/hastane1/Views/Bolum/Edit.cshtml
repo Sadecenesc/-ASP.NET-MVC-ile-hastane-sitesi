@@ -1,0 +1,36 @@
+﻿@model Bolum
+
+<form method="post" asp-action="Edit">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Bolumu Düzenle </h2>
+			<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="BolumAdi"></label>
+			<input asp-for="BolumAdi" class="form-control" />
+			<span asp-validation-for="BolumAdi" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="HastaSayisi"></label>
+			<input asp-for="HastaSayisi" class="form-control" />
+			<span asp-validation-for="HastaSayisi" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="BosYatakSayisi"></label>
+			<input asp-for="BosYatakSayisi" class="form-control" />
+			<span asp-validation-for="BosYatakSayisi" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Aciklamalar"></label>
+			<input asp-for="Aciklamalar" class="form-control" />
+			<span asp-validation-for="Aciklamalar" class="text-danger"></span>
+		</div>
+
+		<button type="submit" class="btn btn-primary" style="width:180px">Düzenle</button>
+		<a asp-controller="Bolum" asp-action="Index" style="width:150px">Listeye  Dön </a>
+
+
+	</div>
+
+</form>

@@ -1,0 +1,282 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Tıp Fakültesi Pediatri Bölümü</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.css" rel="stylesheet">
+
+    <link rel="icon" type="image/x-icon" href="/photos/favicon.ico"> <!-- favicon -->
+    <!-- Poppins yazı tipi -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+    /* Genel Stiller */
+    body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa; /* Hafif açık bir arka plan rengi */
+    margin: 0;
+    padding: 0;
+    }
+
+    /* Navbar */
+    .navbar {
+    background: linear-gradient(to right, #004d99, #0066cc); /* Mavi degrade */
+    border-bottom: 2px solid #003366;
+    }
+    .navbar .navbar-brand {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    }
+    .navbar .nav-link {
+    color: #e0e0e0;
+    transition: color 0.3s;
+    }
+    .navbar .nav-link:hover {
+    color: #ffffff;
+    }
+    .navbar .btn-secondary {
+    background-color: #555555;
+    border: none;
+    transition: background-color 0.3s;
+    }
+    .navbar .btn-secondary:hover {
+    background-color: #444444;
+    }
+
+    /* Ana İçerik */
+    .container {
+    margin-top: 20px;
+    }
+    main {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    }
+
+    /* Footer */
+    footer {
+    background: linear-gradient(to right, #4f158e, #6a9aee);
+    color: #ffffff;
+    font-size: 0.9rem;
+    }
+    footer a {
+    color: #ffcc00;
+    text-decoration: none;
+    }
+    footer a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    }
+
+    /* Butonlar */
+    .btn {
+    border-radius: 5px;
+    transition: transform 0.2s;
+    }
+    .btn:hover {
+    transform: scale(1.05);
+    }
+
+    /* Genel Bağlantılar */
+    a {
+    color: #004d99;
+    text-decoration: none;
+    }
+    a:hover {
+    color: #0066cc;
+    text-decoration: underline;
+    }
+
+   
+    main {
+    padding: 10px;
+    }
+    }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            background: linear-gradient(to right, #4f158e, #6a9aee);
+            /* Mor-mavi degrade */
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 50px 20px;
+            border-radius: 10px;
+            margin: 10px 10px;
+            overflow: hidden;
+            /* Görselin taşmasını engeller */
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: bold;
+            font-family: 'Times New Roman', Times, serif;
+            z-index: 1;
+            /* Yazının görselin üstünde görünmesini sağlar */
+        }
+
+        .hero p {
+            font-size: 1.6rem;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+   
+
+    <!-- HERO -->
+    <div class="hero">
+        <h1>Pediatri Bölümü</h1>
+        <p>Sizin ve çocuklarınız için her zaman buradayız.</p>
+    </div>
+
+    <!-- Hakkında -->
+    <div id="hakkinda" class="container my-5">
+        <h2 class="text-primary text-center mb-4">Bölüm Hakkında</h2>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <div class="p-3 bg-light rounded shadow-sm">
+                    <h5 class="text-secondary">Genel Bilgi</h5>
+                    <p>
+                        Sakarya Üniversitesi Tıp Fakültesi Pediatri Bölümü, çocuk sağlığı ve hastalıkları konusunda uzman bir ekiple hizmet vermektedir.
+                        Modern tıp teknolojileri ve hasta odaklı yaklaşımlarla, her çocuğun sağlıklı bir geleceğe sahip olmasını hedeflemekteyiz.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="p-3 bg-light rounded shadow-sm">
+                    <h5 class="text-secondary">Hizmetlerimiz</h5>
+                    <ul>
+                        <li>7/24 acil pediatri hizmeti</li>
+                        <li>Çocukluk çağı hastalıklarının teşhis ve tedavisi</li>
+                        <li>Büyüme ve gelişim izlem programları</li>
+                        <li>Hasta odaklı yaklaşım</li>
+                        <li>Çocukluk çağı hastalıklarının teşhis ve tedavisi</li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="p-3 bg-light rounded shadow-sm">
+                    <h5 class="text-secondary">Misyon ve Vizyon</h5>
+                    <p>
+                        Pediatri bölümümüz, her çocuğun kaliteli sağlık hizmetine erişimini sağlamak ve toplum sağlığını artırmaya yönelik çalışmalar yapmak misyonunu benimsemiştir.
+                        Sağlıklı nesillerin yetişmesi için sürekli gelişim ve öğrenme odaklı bir vizyonla çalışıyoruz.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Ekip -->
+    <div id="ekip" class="container my-5">
+        <h2 class="text-primary text-center mb-4">Doktor Ekibimiz</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+					<img src=" /images/doktor2.jpeg" />
+                    <div class="card-body">
+                        <h5 class="card-title">Dr.Talha Çimşir</h5>
+                        <p class="card-text">Çocuk Sağlığı ve Hastalıkları Uzmanı</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+				<img src="~/images/doktor1.jpeg" />
+                    <div class="card-body">
+                        <h5 class="card-title">Dr.Enes Çimşir</h5>
+                        <p class="card-text">Pediatri Uzmanı</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+					<img src="~/images/doktor3.jpeg" />   
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Sena Çimşir</h5>
+                        <p class="card-text">Çocuk Endokrinoloji Uzmanı</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- İletişim -->
+    <div id="iletisim" class="container my-5">
+        <h2 class="text-primary text-center mb-4">İletişim</h2>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="p-3 bg-light rounded shadow-sm">
+                    <h5 class="text-secondary">İletişim Bilgileri</h5>
+                    <p>Bizimle iletişime geçmek için aşağıdaki bilgileri kullanabilirsiniz:</p>
+                    <ul>
+                        <li>Telefon: +90 264 123 4567</li>
+                        <li>E-posta: pediatri@sakarya.edu.tr</li>
+                        <li>Adres: Sakarya Üniversitesi Tıp Fakültesi, Serdivan, Sakarya</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="p-3 bg-light rounded shadow-sm">
+                    <h5 class="text-secondary">Harita</h5>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3067.1639390568677!2d30.38333331561799!3d40.75636107932898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0:0x7dbe52bfa0d843ec!2zU2FrYXJ5YSDEsHbDvHJlZHZhbg!5e0!3m2!1str!2str!4v1638711591248!5m2!1str!2str"
+                            width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+   
+  
+
+
+    <!-- JS KODLARI -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.4/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@3.10.2/dist/fullcalendar.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let nobetListesi = JSON.parse(localStorage.getItem('nobetListesi')) || [];
+            let asistanListesi = JSON.parse(localStorage.getItem('asistanListesi')) || [];
+
+            $('#calendar').fullCalendar({
+                header: false,
+                defaultView: 'month',
+                events: nobetListesi.map(function (nobet) {
+                    const asistanBilgisi = asistanListesi.find(function (asistan) {
+                        return asistan.asistanAd === nobet.asistan;
+                    });
+
+                    const asistanAd = asistanBilgisi ? asistanBilgisi.asistanAd : nobet.asistan;
+                    const bolum = nobet.bolumNobet || 'Bölüm bilgisi yok';
+
+                    return {
+                        title: `${asistanAd} - ${bolum}`,
+                        start: moment(nobet.nobetBaslama).format('YYYY-MM-DDTHH:mm:ss'),
+                        end: moment(nobet.nobetBitis).format('YYYY-MM-DDTHH:mm:ss')
+                    };
+                }),
+                editable: false,
+                height: 350,
+                eventColor: '#007bff',
+                eventTextColor: '#fff'
+            });
+        });
+
+    </script>
+</body>
+
+</html>

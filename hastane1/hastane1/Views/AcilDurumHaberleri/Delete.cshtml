@@ -1,0 +1,38 @@
+﻿@model AcilDurumHaberi
+
+<form method="post" asp-action="DeletePOST">
+	<input asp-for="Id" hidden/>
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary"> Acil Durum Haberi Silme </h2>
+				<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Baslik"></label>
+			<input asp-for="Baslik" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Aciklama"></label>
+			<input asp-for="Aciklama" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="Tarih"></label>
+			<input asp-for="Tarih" disabled class="form-control" />
+		
+		</div>
+		<div class="mb-3">
+			<label asp-for="EkipEpostalari"></label>
+			<input asp-for="EkipEpostalari" disabled class="form-control" />
+			
+		</div>
+		
+			
+		<button type="submit" class="btn btn-danger" style="width:180px">Sil</button>
+		<a asp-controller="AcilDurumHaberleri" asp-action="Index" style="width:150px">Listeye  Dön </a>
+		
+
+	</div>
+
+</form>

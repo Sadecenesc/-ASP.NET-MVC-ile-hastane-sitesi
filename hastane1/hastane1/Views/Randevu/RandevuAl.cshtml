@@ -1,0 +1,22 @@
+﻿@model Randevu
+
+<div class="container">
+    <h2>Randevu Al</h2>
+    <form asp-action="RandevuAl" method="post">
+        <input type="hidden" asp-for="Id" />
+
+
+        <div class="mb-3">
+            <label asp-for="Başlamazamani" class="form-label">Başlangıç Zamanı</label>
+            <input asp-for="Başlamazamani" class="form-control" readonly />
+        </div>
+        <div class="mb-3">
+            <label asp-for="AsistanId" class="form-label">Asistan Seç</label>
+            <select asp-for="AsistanId" class="form-select" asp-items="ViewBag.Asistanlar">
+                <option value="">Asistant Seç</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Randevuyu Onayla</button>
+        <a asp-controller="Randevu" asp-action="Index" class="btn btn-secondary">İptal</a>
+    </form>
+</div>
